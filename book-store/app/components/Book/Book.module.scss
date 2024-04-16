@@ -1,0 +1,22 @@
+.BookItem{
+    display:flex;
+    text-align: center;
+    flex-direction: column;
+    gap:10px;
+    cursor:pointer;
+    border:solid 0.2em rgba(0, 0, 0, 0.461);
+    border-radius:1em;
+    width:100%;
+    padding:1em;
+    align-items: center;
+    background: rgba(33, 33, 33, 0.472);
+
+    .BookTitle{
+        font-weight: bold;
+        font-size: 1.5em;
+        text-decoration: underline;
+    }
+    .DeleteButton{
+        background:rgb(87, 5, 67);
+    }
+}

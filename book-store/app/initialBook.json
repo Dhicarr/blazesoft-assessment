@@ -1,0 +1,26 @@
+{
+    "categories":["Fantasy","Horror","Mystery","Romance","Thriller","Science Fiction"],
+    "books": [
+        {
+            "id":"1",
+            "name": "Legend of Link",
+            "price": "12.99",
+            "category": "Fantasy",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+            "id":"2",
+            "name": "Scooby Who",
+            "price": "23.00",
+            "category": "Mystery",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+            "id":"3",
+            "name": "Shiny",
+            "price": "17.99",
+            "category": "Thriller",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        }
+    ]
+}

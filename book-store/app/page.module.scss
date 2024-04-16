@@ -1,0 +1,13 @@
+.BooksList{
+    display:flex;
+    gap:10px;
+    flex-direction: column;
+    align-items: center;
+}
+.BookContainer{
+    width:min(400px,100%);
+}
+.AddButton{
+    background:rgb(109, 37, 255);
+    border:none;
+}
